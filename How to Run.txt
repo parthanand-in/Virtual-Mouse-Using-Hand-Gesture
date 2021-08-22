@@ -1,0 +1,17 @@
+Step 1:Install Python 3.X
+
+Step 2:Install Following Libraries
+	a->Install Numpy
+		pip install numpy
+	b->Install OpenCv
+		pip install opencv-python
+	c->Install wx
+		pip install wxpython
+	d->Install pynput
+		pip install pynput
+
+Step 3:Run the part1.py
+
+Step 4:Use the Object inorder to make the pointer(Image of Object I used is given in the image.It is Cut Pipe Pieces Winded with Red SeloTape)
+
+		Gesture that I used Inorder to build this mouse are given in the images.
